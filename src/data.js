@@ -18,7 +18,7 @@ export { HeroDark as Dark };
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
 */
-export const githubUsername = "Your GitHub username here";
+export const githubUsername = "William-potter-exp";
 
 // Navbar Logo image
 export const navLogo = undefined;
@@ -42,6 +42,21 @@ export const skillData = [
     id: 1,
     skill: <Icon icon="mdi:language-html5" className="display-4" />,
     name: "HTML5",
+  },
+  {
+    id: 10,
+    skill: <Icon icon="mdi:language-python" className="display-4" />,
+    name: "Python",
+  },
+  {
+    id: 11,
+    skill: <Icon icon="mdi:language-java" className="display-4" />,
+    name: "Java",
+  },
+  {
+    id: 12,
+    skill: <Icon icon="mdi:language-go" className="display-4" />,
+    name: "GoLang",
   },
   {
     id: 2,
